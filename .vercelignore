@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+.agents
+.DS_Store
+*.log
+Tynyshpaev.jpg
+
